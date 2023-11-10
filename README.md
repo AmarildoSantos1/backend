@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* para rodar é $ rails s, a porta é http://localhost:3000
